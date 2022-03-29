@@ -1,6 +1,6 @@
 "use strict";
-(self.webpackChunkpresale_safutrendz_website_contract =
-  self.webpackChunkpresale_safutrendz_website_contract || []).push([
+(self.webpackChunkpresale_xrxs_website_contract =
+  self.webpackChunkpresale_xrxs_website_contract || []).push([
   [617],
   {
     6617: function (e, n, t) {
@@ -304,7 +304,7 @@
                   children: [
                     (0, u.jsx)("a", {
                       className: "navbar-logo",
-                      href: "https://safutrendz.com",
+                      href: "https://xrxstoken.com",
                       children: (0, u.jsx)("img", { src: O.T, alt: "logo" }),
                     }),
                     (0, u.jsx)("div", {
@@ -359,7 +359,7 @@
                 }),
                 (0, u.jsx)("div", {
                   className: "footer-copyright",
-                  children: "\xa9 2022 SafuTrendz",
+                  children: "\xa9 2022 XRXS",
                 }),
                 (0, u.jsx)("div", {
                   className: "footer-socials flex",
@@ -429,7 +429,7 @@
             children: (0, u.jsxs)(R(), {
               className: "presale-wrapper container flex flex-column",
               children: [
-                (0, u.jsx)("h1", { children: "SaFuTrendz PreSale" }),
+                (0, u.jsx)("h1", { children: "XRXS PreSale" }),
                 (0, u.jsxs)("div", {
                   className:
                     "presale-main flex flex-column rounded blur-bg shadowed",
@@ -975,7 +975,7 @@
               explorerUrl:
                 "https://bscscan.com/address/0x3d85f68845768f25aabbd78b22a403a6d6e2c038",
             }),
-            SAFUTRENDZ: (0, Y.Z)({}, X, {
+            XRXS: (0, Y.Z)({}, X, {
               address: "0x4B3370B44A9E6A4EC28BfDb7C2C400758b59975d",
               explorerUrl:
                 "https://bscscan.com/token/0x4B3370B44A9E6A4EC28BfDb7C2C400758b59975d",
@@ -1314,12 +1314,12 @@
         fe =
           (w.Kj.BSC_TESTNET,
           {
-            SAFUTRENDZ: (0, Y.Z)({}, he, {
-              name: "SaFuTrendz",
-              symbol: "SAFU",
+            xrxstoken: (0, Y.Z)({}, he, {
+              name: "XRXS",
+              symbol: "XRXS",
               decimal: 18,
               address: "0x4B3370B44A9E6A4EC28BfDb7C2C400758b59975d",
-              projectUrl: "https://www.safutrendz.com/",
+              projectUrl: "https://www.xrxstoken.com/",
             }),
           }),
         ye = parseInt("56", 10),
@@ -1473,10 +1473,10 @@
             buyerAddress: n,
             startTimeLeft: p,
             endTimeLeft: y,
-            token: be("SAFUTRENDZ"),
-            tokenContract: re("SAFUTRENDZ"),
+            token: be("XRXS"),
+            tokenContract: re("XRXS"),
             presaleContract: re("PRESALE"),
-            presaleSupply: 25e8,
+            presaleSupply: 2.92125e3,
             rate: M.token_rate
               ? L.O$.isBigNumber(M.token_rate)
                 ? L.O$.from(M.token_rate).toNumber()

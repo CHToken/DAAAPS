@@ -29577,7 +29577,7 @@
     }),
     (function () {
       var e = {},
-        t = "presale-safutrendz-website-contract:";
+        t = "presale-xrxs-website-contract:";
       r.l = function (n, i, o, a) {
         if (e[n]) e[n].push(i);
         else {
@@ -29761,8 +29761,8 @@
           for (t && t(n); l < a.length; l++)
             (o = a[l]), r.o(e, o) && e[o] && e[o][0](), (e[o] = 0);
         },
-        n = (self.webpackChunkpresale_safutrendz_website_contract =
-          self.webpackChunkpresale_safutrendz_website_contract || []);
+        n = (self.webpackChunkpresale_xrxs_website_contract =
+          self.webpackChunkpresale_xrxs_website_contract || []);
       n.forEach(t.bind(null, 0)), (n.push = t.bind(null, n.push.bind(n)));
     })(),
     (function () {

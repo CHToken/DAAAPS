@@ -1,6 +1,6 @@
 /*! For license information please see 443.55ee406d.chunk.js.LICENSE.txt */
-(self.webpackChunkpresale_safutrendz_website_contract =
-  self.webpackChunkpresale_safutrendz_website_contract || []).push([
+(self.webpackChunkpresale_xrxs_website_contract =
+  self.webpackChunkpresale_xrxs_website_contract || []).push([
   [443],
   {
     2851: function (t, e, n) {
